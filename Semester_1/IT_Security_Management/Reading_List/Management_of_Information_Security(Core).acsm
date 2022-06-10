@@ -1,0 +1,30 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>https://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>6351343_349830341</transaction>
+  <purchase>2022-06-24T01:03:07+00:00</purchase>
+  <expiration>2022-06-24T07:03:07+00:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:00000000-0000-0000-0000-000006351343</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Management of Information Security</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Whitman, Michael;Mattord, Herbert;</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Cengage</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">6351343</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:00000000-0000-0000-0000-000006351343</resource>
+      <permissions>
+        <display>
+          <duration>172799</duration>
+        </display>
+        <play>
+          <duration>172799</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>C5GLFiXEU4uCUu02PtGf3PQnMB0=</hmac>
+</fulfillmentToken>
