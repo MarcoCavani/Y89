@@ -1,0 +1,25 @@
+Chapter 0 textbook is good for starting phase/ https://courses.ecu.edu.au/courses/26138/pages/explain-pen-testing-phases?module_item_id=1289553
+
+active recognisance
+commands: ifconfig ip -a nmap 192.168.0.103 -sV
+exploit database : https://www.exploit-db.com/exploits 
+
+
+kali: user - kali psw - kali
+
+metaesploitable: user -  metasploitable
+metaesploitable = target 
+ifconfig = IP??
+
+kali = attacking machine
+nmap = recognisance 
+
+white box = authorized with all credential
+Black hack = has no information
+Grey hat = some credentials are provided
+
+week 4 workshop has a testing log which is in assignment 2
+
+Find flag 1 in week 4
+
+
